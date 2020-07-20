@@ -7,10 +7,33 @@ or docstring (used to define a functions purpose)
 can be single or double quotes
 '''
 
+
 """
 VARIABLE RULES:
   - Variable names are case sensitive (name and NAME are different variables)
   - Must start with a letter or an underscore
   - Can have numbers but can not start with one
 """
-print('Hello World!')
+
+# x = 1               # int
+# y = 2.5             # float
+# name = 'Iskander'   # string
+# is_smart = True     # bool
+
+# multiple assigment
+x, y, name, is_smart = (1, 2.5, 'Brad', True)
+
+print(x)
+
+# Basic Math 
+a = x + y
+print(a) 
+
+# Check type
+print(type(x))
+print(type(y))
+
+# Casting
+x = str(x)
+y = int(y)
+z = float(y)
