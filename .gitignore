@@ -281,10 +281,10 @@ yarn-error.log*
 
 # internal 
 
-/Python\ Django\ Dev\ To\ Deployment/test
+#/Python\ Django\ Dev\ To\ Deployment/test
 
-/Python\ Django\ Dev\ To\ Deployment/testt
+#/Python\ Django\ Dev\ To\ Deployment/testt
 
-#Python\ Django\ Dev\ To\ Deployment/test
+Python\ Django\ Dev\ To\ Deployment/test
 
-#Python\ Django\ Dev\ To\ Deployment/testt
+Python\ Django\ Dev\ To\ Deployment/testt
