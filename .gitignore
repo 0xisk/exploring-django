@@ -113,6 +113,7 @@ ENV/
 env.bak/
 venv.bak/
 
+
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -281,3 +282,5 @@ yarn-error.log*
 
 # internal 
 /Python\ Django\ Dev\ To\ Deployment/Btre/resources/btre_theme
+/Python\ Django\ Dev\ To\ Deployment/Btre/venv
+
